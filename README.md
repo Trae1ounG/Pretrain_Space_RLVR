@@ -2,7 +2,7 @@
 
 # From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.01347)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.14142) [![Github](https://img.shields.io/badge/TTRL-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/Trae1ounG/Pretrain_Space_RLVR)
 </div>
 
 
@@ -65,5 +65,11 @@ bash run_code/DSRL_abla_qwen3-4b.sh
 ## Citation
 If you find our paper or code useful, please consider cite our work:
 ```
-
+@article{tan2026from,
+    title={From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space}, 
+    author={Yuqiao Tan and Minzheng Wang and Bo Liu and Zichen Liu and Tian Liang and Shizhu He and Jun Zhao and Kang Liu},
+    journal={arXiv preprint arXiv:2604.14142},
+    year={2026},
+    url={https://arxiv.org/abs/2604.14142}, 
+}
 ```
