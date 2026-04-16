@@ -2,7 +2,7 @@
 
 # From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.14142) [![Github](https://img.shields.io/badge/TTRL-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/Trae1ounG/Pretrain_Space_RLVR)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.14142) [![Github](https://img.shields.io/badge/PreRL-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/Trae1ounG/Pretrain_Space_RLVR)
 </div>
 
 
